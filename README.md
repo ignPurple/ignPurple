@@ -7,5 +7,6 @@ I am 18 years old, and have done tons of commissions & public projects.
 I currently work at the following places:
 
 - SolarMC (Full-time Owner) | https://discord.gg/solarmc
+- ExodusMC (Full-time Developer)
 
 Thanks for taking the time out of your day to view my github profile!
