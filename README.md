@@ -6,6 +6,6 @@ I am 18 years old, and have done tons of commissions & public projects.
 # Where do you work?
 I currently work at the following places:
 
-- SolarMC (Full-time Owner) | https://discord.gg/solarmc
+- N/A
 
 Thanks for taking the time out of your day to view my github profile!
